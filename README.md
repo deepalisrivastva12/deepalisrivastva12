@@ -64,7 +64,6 @@ B.Tech Computer Science graduate (Class of 2026) from Lovely Professional Univer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Testing & Tools
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -77,7 +76,6 @@ B.Tech Computer Science graduate (Class of 2026) from Lovely Professional Univer
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepalisrivastva12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=deepalisrivastva12&theme=radical&hide_border=true" alt="GitHub Streak" height="160" />
 </div>
 
