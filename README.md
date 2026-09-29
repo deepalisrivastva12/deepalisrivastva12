@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Deepali 👋</h1>
   <h3>Backend Engineer | Java & Spring Boot | Distributed Systems Enthusiast</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=22&pause=2000&color=F79400&width=650&lines=Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%26+System+Design;Linux+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=22&pause=2000&color=F79400&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%26+System+Design;Linux+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 
   <br />
 
@@ -64,6 +64,7 @@ B.Tech Computer Science graduate (Class of 2026) from Lovely Professional Univer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
